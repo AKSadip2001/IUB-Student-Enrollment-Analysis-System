@@ -7,7 +7,7 @@
 	<title>SEAS</title>
 
 	<link rel="stylesheet" href="assets/modules/bootstrap-5.1.3/css/bootstrap.css">
-	<link rel="stylesheet" href="web.css">
+	<link rel="stylesheet" href="./CSS/web.css">
 	<link rel="stylesheet" href="assets/modules/fontawesome6.1.1/css/all.css">
 	<link rel="stylesheet" href="assets/modules/boxicons/css/boxicons.min.css">
 	<link rel="stylesheet" href="assets/modules/apexcharts/apexcharts.css">
