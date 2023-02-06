@@ -14,7 +14,7 @@
   <div class="main">
     <div class="navbar">
       <div class="logo">
-      <img src="logo.png" alt="">
+      <img src="./assets/Image/logo.png" alt="IUB logo">
       </div>
       <form class="form" action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
         <h1>LOGIN</h1>

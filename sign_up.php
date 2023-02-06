@@ -74,8 +74,8 @@
                   </div>
                   <div class="col-md-10 col-lg-6 col-xl-7 d-flex flex-row justify-content-center align-items-center order-1 order-lg-2">
     
-                    <img src="logo.png"
-                      class="img-fluid" alt="Sample image">
+                    <img src="./assets/Image/logo.png"
+                      class="img-fluid" alt="IUB logo">
                   </div>
                 </div>
               </div>

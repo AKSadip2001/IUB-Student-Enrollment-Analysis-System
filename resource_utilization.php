@@ -24,7 +24,7 @@
 	
 				<!-- Logo -->
 				<div class="logo">
-					<h2 class="mb-0"><img src="logo.png"> IUB</h2>
+					<h2 class="mb-0"><img src="./assets/Image/logo.png"> IUB</h2>
 				</div>
 	
 				<ul class="side-menu">
