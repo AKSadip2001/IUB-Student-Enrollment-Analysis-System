@@ -136,6 +136,6 @@
     </section>
 
     <!-- MDB -->
-    <script type="text/javascript" src="mdb.min.js"></script>
+    <script type="text/javascript" src="./assets/js/mdb.min.js"></script>
   </body>
 </html>

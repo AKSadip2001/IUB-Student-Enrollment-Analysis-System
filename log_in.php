@@ -7,7 +7,7 @@
   <title>SEAS</title>
 
   <link rel="stylesheet" href="./CSS/style.css">
-  <script src="valid.js"></script>
+  <script src="./assets/js/valid.js"></script>
 
 </head>
 <body>
