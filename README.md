@@ -47,3 +47,7 @@ semester.
 w.r.t. that of the school each semester and the percentage change in the revenues
 of each department as well as the overall total revenue of the school.
 
+
+## Documentation
+[Document.pdf](https://github.com/AKSadip2001/IUB-Student-Enrollment-Analysis-System/files/10825930/Document.pdf)
+
