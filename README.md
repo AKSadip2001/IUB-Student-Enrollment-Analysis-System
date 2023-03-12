@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/84903691/216838608-9558dbd3-4f5f-480d-
 * Javascript
 * Bootstrap
 * Material Design for Bootstrap
+* Chart.js
 * PHP
 * MYSQL
 
